@@ -1,5 +1,7 @@
 # Sreamlit Web Page Sample - Portifolio
 
+<img src="https://github.com/teonett/Streamlit-WebPage-Portifolio/blob/main/WebPage.gif">
+
 <p>
 Thanks to the power of artificial intelligence, travel planning has never been easier.
 </p>
@@ -63,8 +65,6 @@ $ streamlit run my_component/example.py  # run the example
 See the `template-reactless` directory for a template that does not use [React](https://reactjs.org/).
 
 See the `examples` directory for examples on working with pandas DataFrames, integrating with third-party libraries, and more.
-
-<img src="https://github.com/teonett/Streamlit-WebPage-Portifolio/blob/main/WebPage.gif">
 
 <h4>Copyright (C) 2023 Jose Teotonio (teonett@gmail.com)</h4>
 <p>
